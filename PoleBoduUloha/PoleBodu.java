@@ -18,7 +18,18 @@ public class PoleBodu {
     public int pocet;
     private int index = 0;
 
-    public PoleBodu(int pocet) {
+    public PoleBodu(int j
+    odjoj
+    ovjd
+    vojvodvj
+    vojdodjo
+    jd
+    ovjo
+    j
+    vojdojdo
+    vjdjod
+    jodjvodjdojo
+    pocet) {
         this.pocet = pocet;
         this.b = new Bod[pocet];
     }

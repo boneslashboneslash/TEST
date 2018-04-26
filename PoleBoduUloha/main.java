@@ -31,5 +31,15 @@ public class main {
       
     // TODO code application logic here
     }
-    
+              ojfokos
+              kofkso
+              ksoskfs
+              ksosks
+              kokfs
+              fkod
+              ksdok
+              ko
+              kok
+              koko
+              k
 }
