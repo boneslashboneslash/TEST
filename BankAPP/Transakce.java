@@ -24,7 +24,15 @@ public class Transakce {
     public Transakce(int vyse)  {
         this.castka = vyse;
         datum = new Date() ;
-         }
+         }                   okoKoK
+         kokok
+         ok
+         k
+         oko
+         ko
+         kokok
+         okok
+         
 
     public int getCastka() {
         return castka;
