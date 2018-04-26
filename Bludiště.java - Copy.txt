@@ -1,0 +1,20 @@
+Bludištì
+
+Grafové vyjádøení:
+* Hrany -> kopané chodby
+* Vrcholy -> Køižovatky
+* Ohodnocení -> tvrdost hrany + vzdálenost
+
+Grafový algoritmus :
+
+Øešení tohoto problému tkví ve využití algoritmu hledání do hloubky. Algoritmus využiji pro generování následujícím zpùsobem,Je tøeba aby všechny zdi byly postaveny a jednotlivé vrcholy znaly své sousedy, 
+      Poté se nastaví pravidlo pro výbìr sousedních uzlù èi bunìk. Ty se vyberou dle stupòù tvrdosti a pøi pøechodu na sousední buòku bude zbouraná zeï. Tím se vygeneruje bludištì.
+      Pro vyøešení také použiju Dijkstrùv algoritmus, který poèítá s nezáporným ohodnocením hran, bude procházet postupnì všechny køižovatky a zjišovat postupnì nejkratší cestu k jednotlivé køižovatce od vstupu, s kombinací s pøedchozím algoritmem budu moci zjistit nejkratší vzdálenost všech køižovatek od vstupu s co nejmenší celkovou tvrdostí
+
+Datové struktury
+V algoritmu využiji datových struktur jako jsou vícerozmìrná pole a pøípadnì i zásobník -> viz. Hledání do hloubky
+
+Èasová složitost a pamìová složitost:  
+Obojí -> O (n*n+m) - n je poèet vrcholù a m je poèet hran
+Lukáš Souèek
+
