@@ -20,7 +20,14 @@ public class Transakce {
     private SimpleDateFormat dateFormatter = new SimpleDateFormat("dd.MMMM YYYY hh:mm:ss");
     private int castka;
     private Date datum;
-     
+                     ioioi
+                     i
+                     oi
+                     ioi
+                     ioioioio
+                     ioio
+                     ioi
+                     
     public Transakce(int vyse)  {
         this.castka = vyse;
         datum = new Date() ;
