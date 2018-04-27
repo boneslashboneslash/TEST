@@ -12,6 +12,9 @@ package polygon;
  */
 public class Point {
 
+kok
+k
+okok
     @Override // tato metoda existuje, tak to použije 
     public String toString() {
         return "Hodnota " + "x" + x + ", hodnota y" + y;
