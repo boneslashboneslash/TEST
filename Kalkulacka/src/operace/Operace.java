@@ -12,6 +12,10 @@ package operace;
 public class Operace {
     private int cislo1, cislo2;
 
+    kok
+    o
+    kokok
+    kok
     public Operace(int cislo1, int cislo2) {
         this.cislo1 = cislo1;
         this.cislo2 = cislo2;
