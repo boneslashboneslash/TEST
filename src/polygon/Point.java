@@ -18,7 +18,8 @@ public class Point {
     }
 
     public double getX() {
-        return x;
+        retkokokoo
+        kokourn x;
     }
 
     public double getY() {
