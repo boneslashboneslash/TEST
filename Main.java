@@ -16,7 +16,10 @@ public class Main {
         Scanner sc = new Scanner(file);
         zavod.load();
         System.out.println(zavod.display());       
-        zavod.sort();
+        zavod.sort()ko
+        kok
+        kok
+        ;
         System.out.println(zavod.display());
         System.out.print("File name for saving results: ");
         String name = Main.scan.next();
