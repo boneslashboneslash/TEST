@@ -14,6 +14,9 @@ public class Operace {
 
     kok
     o
+    kmkm
+    kmm
+    
     kokok
     kok
     public Operace(int cislo1, int cislo2) {
