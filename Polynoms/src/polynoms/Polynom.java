@@ -69,7 +69,11 @@ public class Polynom {
         
      }
     
-
+                 jodjcojcojoc
+                 jd
+                 jd
+                 cjdo
+                 cdj
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
