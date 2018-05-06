@@ -4,6 +4,13 @@
  * and open the template in the editor.
  */
 
+ mppkpkp
+ kpkp
+ k
+ pkp
+ kp
+ kp
+ k
 package polynoms;
 
 import java.util.Arrays;
