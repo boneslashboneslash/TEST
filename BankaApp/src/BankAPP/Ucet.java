@@ -12,11 +12,7 @@ import java.util.ArrayList;
  *
  * @author lukas.soucek
  */
-public class Ucet {
-    private int cislouctu;
-    private int zustatek;
-    ArrayList<Transakce> t;
-
+pub
     public void setCisloUctu(int cislo) {
         this.cislouctu = cislo;
     }

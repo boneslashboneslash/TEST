@@ -21,6 +21,11 @@ public class Transakce {
     private int castka;
     private Date datum;
      
+     ko
+     k
+     ko
+     k
+     oko
     public Transakce(int vyse)  {
         this.castka = vyse;
         datum = new Date() ;

@@ -12,14 +12,7 @@ import java.util.ArrayList;
  * @author SULO
  */
 public class App {
-    private ArrayList<Ucet> ucty;
-
-    public App() {
-        ucty = new ArrayList<>();
-    }
-    public void pridatUcet(Ucet u)
-    {
-        ucty.add(u);
+    
     }
     public String vypocetbilance(int cislouctu)
     {
