@@ -6,7 +6,10 @@
 package CMD;
 
 import java.util.Scanner;
-
+    ji
+    ¨j¨j¨j¨j¨j
+    j
+    j
 /**
  *
  * @author SULO
