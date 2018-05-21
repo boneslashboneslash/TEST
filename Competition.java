@@ -1,4 +1,6 @@
-ggggok
+ko
+ko
+kggggok
 kok
 oko
 koko
