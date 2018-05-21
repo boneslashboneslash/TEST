@@ -1,4 +1,6 @@
-ko
+ij¨j
+jjij
+jko
 ko
 kggggok
 kok
