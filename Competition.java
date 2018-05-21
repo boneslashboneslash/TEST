@@ -1,4 +1,5 @@
-ij¨j
+ji
+jijij¨j
 jjij
 jko
 ko
