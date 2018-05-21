@@ -1,4 +1,8 @@
-jo
+ok
+kok
+oko
+koko
+kjo
 jojojo
 jokp
 
